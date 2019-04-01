@@ -17,6 +17,9 @@
 !/log/.keep
 !/tmp/.keep
 
+# MISC
+/.idea
+
 .byebug_history
 
 # Ignore public, as it is built on deploy
